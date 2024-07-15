@@ -1,0 +1,3 @@
+leonardo;20
+Arthur;20
+Ana;19
